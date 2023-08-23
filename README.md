@@ -1,4 +1,4 @@
-# Simple Market-segmentation using Machine Learning and depoyment
+# Simple Market-segmentation using Machine Learning and deployment
 
 A machine learning (unsupervised learning) based market segmentation project.
 
@@ -16,7 +16,7 @@ A scenario demands the creation of customer segmentation in order to provide tar
 
 ### About dataset
 
-This case requires to develop a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. [Link](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
+This case requires developing a customer segmentation to define marketing strategy. The sample Dataset summarizes the usage behavior of about 9000 active credit card holders during the last 6 months. The file is at a customer level with 18 behavioral variables. [Link](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata)
 
 ### Variables of Dataset
 
@@ -60,9 +60,8 @@ K-means clustering
 Spectral Clustering
 DBSCAN Clustering
 Agglomerative Clustering
-Gaussian Mixture Model based clustering
+Gaussian Mixture Model-based clustering
 
 ### Deployment
 
-Streamlit
-[screen-capture (3).webm](https://github.com/AmosMaru/market-segmentation/assets/98489395/82c4b768-ed75-48be-92e6-25d737a95bfb)
+[Streamlit deployment](https://github.com/AmosMaru/market-segmentation/assets/98489395/9a3bb7e9-9cea-4d3c-adde-01dd676d4f78)
