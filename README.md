@@ -65,3 +65,4 @@ Gaussian Mixture Model based clustering
 ### Deployment
 
 Streamlit
+[screen-capture (3).webm](https://github.com/AmosMaru/market-segmentation/assets/98489395/82c4b768-ed75-48be-92e6-25d737a95bfb)
