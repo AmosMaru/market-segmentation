@@ -1,4 +1,4 @@
-# Market-segmentation
+# Simple Market-segmentation using Machine Learning and depoyment
 
 A machine learning (unsupervised learning) based market segmentation project.
 
@@ -54,7 +54,6 @@ This case requires to develop a customer segmentation to define marketing strate
 4. Model Building
 5. Model Deployment
 
-
 ### Algorithms used in the project
 
 K-means clustering
@@ -62,8 +61,6 @@ Spectral Clustering
 DBSCAN Clustering
 Agglomerative Clustering
 Gaussian Mixture Model based clustering
-
-### Project
 
 ### Deployment
 
